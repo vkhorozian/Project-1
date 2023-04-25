@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper tristiqu
 
 ## Notebooks
 - [JUPYTER LAB NOTEBOOK LINK](./file.ipynb)
-- [Final Data Analysis](./file.ipynb)
+- [Final Analysis](./file.ipynb)
 
 ## Plots
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper tristique velit, a finibus lectus blandit sed. Nam eget ligula enim. Morbi convallis ipsum id turpis varius, eu luctus ex vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper tristique velit, a finibus lectus blandit sed.
