@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper tristiqu
 
 ## Notebooks
 - [JUPYTER LAB NOTEBOOK LINK](./file.ipynb)
-- [Final Data Analysis](./file.ipynb)
+- [Final Analysis](./file.ipynb)
 
 ## Plots
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper tristique velit, a finibus lectus blandit sed. Nam eget ligula enim. Morbi convallis ipsum id turpis varius, eu luctus ex vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper tristique velit, a finibus lectus blandit sed.
@@ -102,5 +102,5 @@ git clone ...
 
 ## Authors
 - **Varoujan John Khorozian** - [LinkedIn](https://www.linkedin.com/in/varoujan-khorozian/) | [Github](https://github.com/vkhorozian)
-- **Kirill Chugunov** - [LinkedIn](https://www.linkedin.com/in/.../) | [Github](https://github.com/...)
+- **Kirill Chugunov** - [LinkedIn](https://www.linkedin.com/in/kirill-chugunov-b680811a4/) | [Github](https://github.com/OddMerchantStudios)
 - **Hiren Patel** - [LinkedIn](https://www.linkedin.com/in/.../) | [Github](https://github.com/...)
