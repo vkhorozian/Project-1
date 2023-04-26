@@ -103,4 +103,4 @@ git clone ...
 ## Authors
 - **Varoujan John Khorozian** - [LinkedIn](https://www.linkedin.com/in/varoujan-khorozian/) | [Github](https://github.com/vkhorozian)
 - **Kirill Chugunov** - [LinkedIn](https://www.linkedin.com/in/kirill-chugunov-b680811a4/) | [Github](https://github.com/OddMerchantStudios)
-- **Hiren Patel** - [LinkedIn](https://www.linkedin.com/in/.../) | [Github](https://github.com/...)
+- **Hiren Patel** - [LinkedIn](https://www.linkedin.com/in/hdpatel/) | [Github](https://github.com/hpnhs25)
