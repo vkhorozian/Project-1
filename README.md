@@ -24,9 +24,6 @@ TIME SERIES ANALYSIS, CORRELATIONS, SHARPE RATIOS
     * Correlation
     * Sharpe Ratios
     * Company Fundamentals Summary
-
-<br/>
-
 2. Static and Time Series Analysis of metrics above by population segments: indices sectors and stocks. 
     - Indexes
         - 4 major indexes 
@@ -34,13 +31,12 @@ TIME SERIES ANALYSIS, CORRELATIONS, SHARPE RATIOS
         - 8-10 key market sectors 
     - Stocks
         - 95 stock list
-<br/>
-<br/>
-3. Correlation analysis - MARKET AND STOCKS � Understanding Relationships
-    1. Indexes to Sectors - which sectors are most correlated to which indexes? 
-    2. Stocks to sectors - which stocks most correlated to which sectors?
-    3. Stocks to Indexes - which stocks are most correlated to which indexes? 
-    4. How do these correlations change over key market time periods? 
+
+3. Correlation analysis - MARKET AND STOCKS  Understanding Relationships
+    - Indexes to Sectors - which sectors are most correlated to which indexes? 
+    - Stocks to sectors - which stocks most correlated to which sectors?
+    - Stocks to Indexes - which stocks are most correlated to which indexes? 
+    - How do these correlations change over key market time periods? 
 
 4. Sharpe Ratio Analysis:
     - Rank order stocks by Sharpe Ratios 
