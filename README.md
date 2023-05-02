@@ -164,9 +164,9 @@ $ anaconda --version
 conda create -n <env_name> python=3.7 anaconda
 ```
 
-### Clone/Run Repository
+### Clone/Run Repository 
 ```
-git clone ...
+git clone git@github.com:vkhorozian/Project-1.git
 ```
 
 ## Built With
