@@ -1,16 +1,16 @@
 # Main Title
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper tristique velit, a finibus lectus blandit sed. Nam eget ligula enim. Morbi convallis ipsum id turpis varius, eu luctus ex vehicula. Aliquam et quam eros. Donec varius vestibulum eros, quis hendrerit diam vehicula eget. Duis vel turpis velit. Sed ultricies urna a ante vulputate faucibus. Proin aliquet fermentum est quis malesuada. Sed vel dolor quis nulla lacinia finibus a sed urna. Integer aliquam lectus urna, eget volutpat mi venenatis nec. Nullam vel nibh vitae magna ultrices pharetra.
+Using Yahoo finance API, we will be analyzing the stock market and its correlation to the economy. We will be looking at the stock market as a whole and then breaking it down into sectors. We will be looking at the correlation between the indexes, sectors and stocks market.
 
 ## [Video Presentation Link](https://youtu.be/{...})
 ## Questions:
-​1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper tristique velit, a finibus lectus blandit sed.
+​1. Report 1 Aims to answer the question: How does the stock market correlate to the economy? Indexes to Sectors - which sectors are most correlated to which indexes? Stocks to sectors - which stocks most correlated to which sectors? Stocks to Indexes - which stocks are most correlated to which indexes? How do these correlations change over key market time periods? 
 <br />
-2. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper tristique velit, a finibus lectus blandit sed.
+2. Report 2 aims to answer the question: What is the rank for best quality value in growth stocks based on fundamental metric analysis? What is the correlations between stock returns and the fundamental metrics.
 <br />
-3. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper tristique velit, a finibus lectus blandit sed.
+3. Report 3 aims to answer the question: What are the best basket of securities to invest in based on fundamental metric analysis? What is the correlations between stock returns and the fundamental metrics. What is the optimal investment portfolio to maximize returns and minimize risk for a given return timeframe using the Sharpe ratio?
 
 ## Notebooks
-- [JUPYTER LAB NOTEBOOK LINK](./file.ipynb)
+- [JUPYTER LAB NOTEBOOK LINK](./main.ipynb)
 - [Final Analysis](./file.ipynb)
 
 ## Plots
@@ -103,4 +103,4 @@ git clone ...
 ## Authors
 - **Varoujan John Khorozian** - [LinkedIn](https://www.linkedin.com/in/varoujan-khorozian/) | [Github](https://github.com/vkhorozian)
 - **Kirill Chugunov** - [LinkedIn](https://www.linkedin.com/in/kirill-chugunov-b680811a4/) | [Github](https://github.com/OddMerchantStudios)
-- **Hiren Patel** - [LinkedIn](https://www.linkedin.com/in/.../) | [Github](https://github.com/...)
+- **Hiren Patel** - [LinkedIn](https://www.linkedin.com/in/hdpatel/) | [Github](https://github.com/hpnhs25)
